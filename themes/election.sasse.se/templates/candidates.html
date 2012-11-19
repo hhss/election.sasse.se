@@ -5,9 +5,9 @@
 {% block content %}
 <div class="container">
   <div class="row">
-    <div class="span3">
+    <div class="span3 election-sidebar">
       <h3>Candidates</h3>
-      <ul class="nav nav-tabs nav-stacked">
+      <ul class="nav nav-tabs nav-stacked span3" data-spy="affix" data-offset-top="520" data-offset-bottom="270">
         {% for position, candidates in candidates %}
         <li><a href="#{{ position }}">{{ POSITION_TITLES[position ] }}</a></li>
         {% endfor %}
