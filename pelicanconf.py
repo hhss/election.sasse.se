@@ -27,7 +27,9 @@ PLUGIN_PATH = "sasse/plugins"
 PLUGINS = ["sasse.plugins.candidates"]
 
 FEED_DOMAIN = "http://election.sasse.se"
-SITEURL = "http://election.sasse.se"
+SITEURL = "http://0.0.0.0:8000"
 
 ARTICLE_EXCLUDES = ('pages', 'candidates')
 
+THEME = 'themes/election.sasse.se'
+STATIC_PATHS = ['images']

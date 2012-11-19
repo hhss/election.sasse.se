@@ -1,3 +1,4 @@
 publishconf.py
 output
 Makefile
+*.pid

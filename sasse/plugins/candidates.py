@@ -9,9 +9,38 @@ from pelican import signals
 logger = logging.getLogger(__name__)
 
 class Candidate(Page):
+    POSITIONS = {
+        'medu': u'President of the Media Committee',
+        'intu': u'President of the International Committee',
+        'idu': u'President of the Sports Committee',
+        'itu': u'President of the IT Committee',
+        'nu': u'President of the Business Committee',
+        'su': u'President of the Social Committee',
+        'pu': u'President of the Entertainment Committee',
+        'uu': u'President of the Education Committee',
+
+        'treasurer': u"Treasurer",
+        'president': u"President",
+        'vice-president': u"Vice President",
+
+        'fum': u"Student Council",
+        'board-of-directors': u"Board of Directors",
+        'speaker-of-the-council': u"Speaker of the Council",
+        'equality-representative': u"Equality Representative",
+        'safety-representative': u"Safety Representative",
+        "internal-accountant": u"Internal Accountant",
+    }
+
     """Represents a single candidate. Title should be candidate's name."""
     mandatory_properties = ('title', 'registration', 'position')
     default_template = "candidate"
+
+    def __init__(self, *args, **kwargs):
+        super(Candidate, self).__init__(*args, **kwargs)
+
+    @property
+    def position_title(self):
+        return Candidate.POSITIONS.get(self.position, self.position)
 
 class CandidateGenerator(Generator):
     # Candidates for these positions don't get a personal candidate page,
@@ -62,8 +91,8 @@ class CandidateGenerator(Generator):
                 continue
 
             for candidate in candidates:
-                output_path = os.path.join('candidates', candidate.position, "{}.html".format(candidate.slug))
-                writer.write_file(output_path, self.get_template('page'), self.context, page=candidate)
+                output_path = os.path.join('candidates', candidate.position, candidate.slug, "index.html")
+                writer.write_file(output_path, self.get_template('candidate-single'), self.context, candidate=candidate)
 
 def get_generators(pelican):
     return [CandidateGenerator]
