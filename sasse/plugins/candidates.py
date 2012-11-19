@@ -100,28 +100,18 @@ class CandidateGenerator(Generator):
     def generate_output(self, writer):
         for position, candidates in self.candidates.items():
             if position in CandidateGenerator.LISTING_CANDIDATES:
-                # TODO Create listing here
                 continue
 
             for candidate in candidates:
                 output_path = os.path.join('candidates', candidate.position, candidate.slug, "index.html")
-                writer.write_file(output_path, self.get_template('candidate-single'), self.context, candidate=candidate)
+                writer.write_file(output_path, self.get_template('candidate-single'), self.context,
+                    candidate=candidate,
+                    position_candidates=self.candidates[position]
+                )
 
         self.generate_lists(writer)
 
     def generate_lists(self, writer):
-        for position in Candidate.POSITIONS.keys():
-            if position not in CandidateGenerator.LISTING_CANDIDATES:
-                pass
-
-            output_path = os.path.join('candidates', position, 'index.html')
-
-            writer.write_file(output_path, self.get_template('candidates-position'), self.context,
-                position=position,
-                position_title=Candidate.POSITIONS[position],
-                candidates=self.candidates[position]
-            )
-
         # /candidates
         writer.write_file(
             os.path.join('candidates', 'index.html'),

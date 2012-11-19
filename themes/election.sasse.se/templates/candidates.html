@@ -6,6 +6,7 @@
 <div class="container">
   <div class="row">
     <div class="span3">
+      <h3>Candidates</h3>
       <ul class="nav nav-tabs nav-stacked">
         {% for position, candidates in candidates %}
         <li><a href="#{{ position }}">{{ POSITION_TITLES[position ] }}</a></li>
@@ -15,7 +16,7 @@
 
     <div class="span9">
       {% for position, candidates in candidates if not position in LISTING_CANDIDATES %}
-      <section id="{{ position }}">
+      <section id="{{ position }}" class="position">
         <div class="page-header">
           <h1>{{ POSITION_TITLES[position] }}</h1>
         </div>
@@ -28,6 +29,26 @@
               <img src="{{ SITEURL }}/static/images/candidates/{{ candidate.slug }}.jpg" class="img-polaroid">
               <h2><a href="{{ SITEURL }}/{{ candidate.url }}" class="btn-large btn">{{ candidate.title }}</a></h2>
             </a>
+          </div>
+        {{ loop.cycle('', '', '</div>') }}
+        {% endfor %}
+        </div>
+      </section>
+      {% endfor %}
+
+      {% for position, candidates in candidates if position in LISTING_CANDIDATES %}
+      <section id="{{ position }}" class="position">
+        <div class="page-header">
+          <h1>{{ POSITION_TITLES[position] }}</h1>
+        </div>
+
+        <div class="candidate-list">
+        {% for candidate in candidates %}
+        {{ loop.cycle('<div class="row">', '', '') }}
+          <div class="span3">
+            <img src="{{ SITEURL }}/static/images/candidates/{{ candidate.slug }}.jpg" class="img-circle">
+            <h2>{{ candidate.title }}</h2>
+            {{ candidate.content }}
           </div>
         {{ loop.cycle('', '', '</div>') }}
         {% endfor %}
