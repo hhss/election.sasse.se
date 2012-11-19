@@ -106,7 +106,8 @@ class CandidateGenerator(Generator):
                 output_path = os.path.join('candidates', candidate.position, candidate.slug, "index.html")
                 writer.write_file(output_path, self.get_template('candidate-single'), self.context,
                     candidate=candidate,
-                    position_candidates=self.candidates[position]
+                    position_candidates=self.candidates[position],
+                    relative_urls=self.settings.get('RELATIVE_URLS')
                 )
 
         self.generate_lists(writer)
@@ -116,7 +117,8 @@ class CandidateGenerator(Generator):
         writer.write_file(
             os.path.join('candidates', 'index.html'),
             self.get_template('candidates'),
-            self.context
+            self.context,
+            relative_urls=self.settings.get('RELATIVE_URLS')
         )
 
 def get_generators(pelican):

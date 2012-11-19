@@ -33,3 +33,4 @@ ARTICLE_EXCLUDES = ('pages', 'candidates')
 
 THEME = 'themes/election.sasse.se'
 STATIC_PATHS = ['images']
+RELATIVE_URLS = False
