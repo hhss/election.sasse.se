@@ -6,72 +6,15 @@
   <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="The SASSE Election 2012 chooses positions for the board, FUM and others. Stay informed on the candidates' promises and election information.">
+  {% block meta %}
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="{{ SITEURL }}/theme/images/og-image.png">
+  <meta property="og:title" content="SASSE Election 2012">
+  <meta property="og:description" name="description" content="The SASSE Election 2012 chooses positions for the board, FUM and others. Stay informed on the candidates' promises and election information.">
   <meta name="author" content="Election Committee 2012">
+  {% endblock %}
 
   <link rel="stylesheet" href="{{ SITEURL }}/theme/css/styles.css">
-
-  <style>
-    .well h2 {
-      font-size: 14px;
-      line-height: 20px;
-      margin: 0 0 0;
-    }
-
-    .well p {
-      margin: 0;
-    }
-
-    .well ol,
-    .well ul {
-      margin: 0 0 0 30px;
-    }
-
-    .well * + h2 {
-      margin-top: 20px;
-    }
-
-    .metadata img {
-      display: block;
-      margin: 0 auto 20px;
-
-    }
-
-    .candidate-list {
-      text-align: center;
-    }
-
-    .candidate-list a {
-      color: black;
-      text-decoration: none;
-    }
-
-    .candidate-list img { width: 80%; max-width: 240px; }
-    .candidate-list h2 {
-      font-weight: normal;
-      font-size: 24px;
-      line-height: 30px;
-      margin: 20px 0;
-    }
-
-    .candidate-list .row {
-      margin-bottom: 60px;
-    }
-
-    .media-candidate {
-      margin: 0 0 60px;
-    }
-
-    .media-candidate img {
-      max-width: 140px;
-    }
-
-    section.position {
-      margin-bottom: 100px;
-    }
-
-  </style>
-
   <!--[if lt IE 9]>
   <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->

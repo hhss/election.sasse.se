@@ -2,6 +2,15 @@
 
 {% block title %}{{ candidate.title }} | {{ super() }}{% endblock %}
 
+{% block meta %}
+  <meta name="author" content="{{ candidate.title }}">
+  <meta property="og:description" name="description" content="Vote for {{ candidate.title }} as {{ candidate.position_title }} of SASSE 2013/2014!">
+  <meta property="og:title" content="{{ candidate.title }} for {{ candidate.position_title }}!">
+  <meta property="og:image" content="{{ SITEURL }}/static/images/candidates/{{ candidate.slug }}.jpg">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="{{ SITEURL }}/{{ candidate.url }}">
+{% endblock %}
+
 {% block content %}
 <div class="container">
   <div class="row">
