@@ -1,3 +1,3 @@
-Title: Jacob Rudberg
+Title: Jakob Rudberg
 Registration: 22512
 
