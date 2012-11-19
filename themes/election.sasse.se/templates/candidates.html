@@ -15,6 +15,11 @@
     </div>
 
     <div class="span9">
+      <div class="alert alert-info">
+        To find out more about a candidate, click his or her picture; You'll be brought to
+        their personal campaign page.
+      </div>
+
       {% for position, candidates in candidates if not position in LISTING_CANDIDATES %}
       <section id="{{ position }}" class="position">
         <div class="page-header">
