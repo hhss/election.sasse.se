@@ -8,3 +8,5 @@ However, it didn’t take long for me to realize that SSE, and especially SASSE,
 The previous Treasurers have done a great job. Most recently the opportunity to pay by credit card has been an appreciated improvement. As Treasurer, I would strive towards expanding this possibility. Imagine being able to pay with your card when buying tickets to banquets.
 
 Vote for me as Treasurer and you will get a person passionate about numbers and experienced in the field of accounting. Vote for me as Treasurer if you prefer having the choice between cash and card payment. Vote for me as Treasurer if you want to be able to focus on what you are passionate about!
+
+<iframe src="http://player.vimeo.com/video/53792488?badge=0" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/53792488">Ronja Bjurulf for Treasurer 2013/2014</a> from <a href="http://vimeo.com/user14543246">Ronja Bjurulf</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
