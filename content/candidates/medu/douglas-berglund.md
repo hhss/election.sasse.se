@@ -1,6 +1,5 @@
 Title: Douglas Berglund
 Registration: 22500
-Slug: douglas-berglund
 
 <section class="well" markdown="1">
 
