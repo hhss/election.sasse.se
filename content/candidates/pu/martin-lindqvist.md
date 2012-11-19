@@ -1,4 +1,4 @@
-Title: Martin Lindkvist
+Title: Martin Lindqvist
 Registration: 22505
 
 SASSE is a beautiful organization that has united SSE-students for over a century. It would be an honor to lead the Entertainment Committee, the oldest committee of SASSE, which works around the clock to make sure that we have the time of our lives together.

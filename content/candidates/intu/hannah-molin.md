@@ -1,4 +1,4 @@
-Title: Hanna Molin
+Title: Hannah Molin
 Registration: 22516
 
 What is great about Intu, which I would like to keep, is that it has two faces, one serious and one more relaxed. Students can choose what they want to be engaged in and to what degree.
