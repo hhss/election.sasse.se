@@ -30,3 +30,11 @@ What makes the International Committee unique is the wide range of activities th
 The International Committee should be an open-door committee. Anyone who wishes to take part should easily be able to do so. Whether you want to socialize, fully engage in projects or contribute with opinions and ideas, I would see it as my responsibility to make this achievable for every student.  Furthermore, I would strongly aim to integrate and reach students from all categories; bachelor, master and exchange.
 
 Given my experience, dedication and eagerness to learn, I feel more than ready to take on the responsibility that comes with the role as president and a member of the SASSE board. I would feel honored to be entrusted with the important and exciting mission of further developing the full potential of the International Committee.
+
+*Check out my official facebook page where I´ll be happy to answer any questions you might have:
+[facebook.com/KarolinaforpresidentoftheIC][1]*
+
+![Karolina Sjökvist – Still gallopping towards becoming the next president of IntU][2]
+
+[1]: https://www.facebook.com/KarolinaforpresidentoftheIC
+[2]: /static/images/extra/karolina-sjokvist-poster.jpg
