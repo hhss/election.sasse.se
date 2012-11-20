@@ -1,6 +1,26 @@
 Title: Ronja Bjurulf
 Registration: 22675
 
+<section class="well" markdown="1">
+## What would you give to the Hecklers in order to make them behave nicely?
+Gingerbread ☺
+
+## Three reasons to vote for you:
+
+* I have a passion for numbers,
+* I have experience as a financial accountant and
+* I practically live in the SASSE Basement.
+
+## Three reasons not to vote for you:
+
+* I speak with a “Värmländsk”-accent,
+* I am terrible at geography and
+* I practically live in the SASSE Basement.
+
+## Which one of the four rules of arithmetic are you?
+I am division, because that makes it impossible for me to be a zero.
+</section>
+
 We all had different reasons for applying to SSE. Maybe yours was an interest in economics or a belief that SSE would open doors in the future. Mine was that I had found an interest in accounting while working as the financial accountant for a company in Karlstad, with a turnover similar to that of SASSE. I applied to SSE because I wanted to learn more about accounting, and it turned out to be one of the best decisions I have made.
 
 However, it didn’t take long for me to realize that SSE, and especially SASSE, offered so much more than just a future in accounting. I joined the M2 Project group as co-responsible for the magazine and I also became Head of Sponsorship in Project Enoksro. These projects have given me insight into SASSE and the opportunities it offers to the students at SSE. I want to contribute to maintain SASSE as a source of learning and great experiences, as well as a place for finding new friends, which it has been to me. By doing something I am passionate about, accounting, I want to create the possibility for you to focus on what you are passionate about.

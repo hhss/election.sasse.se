@@ -1,6 +1,20 @@
 Title: Martin Lindqvist
 Registration: 22505
 
+<section class="well" markdown="1">
+## What would you give to the Hecklers in order to make them behave nicely?
+Their own bittersweet signature cocktail in the Rotunda
+
+## Three reasons to vote for you:
+You want to see the true potential of the Entertainment Committee, a Klubbis who works for all members of SASSE and you like beardy guys from Skåne
+
+## Three reasons not to vote for you:
+You are allergic to fantastic parties, prefer things to always stay the same and you don’t like beardy guys from Skåne
+
+## What do you do on a Sunday?
+Miss my flight and go to Zilliz
+</section>
+
 SASSE is a beautiful organization that has united SSE-students for over a century. It would be an honor to lead the Entertainment Committee, the oldest committee of SASSE, which works around the clock to make sure that we have the time of our lives together.
 
 Within SASSE I have, apart from being an EC-marshal, been head of the Småttingspex, project manager of Enterprise Day and project group member of Exchange Japan. I am currently vice president of the Business Committee and believe that a broad experience from the association is key to understanding the role of the EC in organizing events for all parts of SASSE, and beneficial when representing you in the SASSE board.

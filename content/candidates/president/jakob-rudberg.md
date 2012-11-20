@@ -1,6 +1,26 @@
 Title: Jakob Rudberg
 Registration: 22512
 
+<section class="well" markdown="1">
+## What would you give to the Hecklers in order to make them behave nicely?
+A trip to the archipelago, a Thermos of coffee and a good book to read
+
+## Three reasons to vote for you:
+
+* Genuine interest and passion for SASSE
+* An experienced leader
+* A rational visionary
+
+## Three reasons not to vote for you:
+
+* You do not like my yellow Thermos
+* You don´t believe in SASSE
+* You do not like people who are optimistic about time
+
+## If SASSE got 10 000 000 SEK that were to be spent in four days, what would you do?
+Together with my Vice President buy: a BIG ventilation system for the Rotunda, new toilet facilities, remake the pub into an actual pub and build a new house at Enoksro.
+</section>
+
 Through leadership, experiences and commitment to SASSE, I will lead the Board openly and effectively, making way for change. It all boils down to one question.
 What can SASSE do for you?
 

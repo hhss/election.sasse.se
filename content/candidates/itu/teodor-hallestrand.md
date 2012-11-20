@@ -1,6 +1,26 @@
 Title: Teodor Hällestrand
 Registration: 22374
 
+<section class="well" markdown="1">
+## What would you give to the Hecklers in order to make them behave nicely?
+A message: Haters gonna hate.
+
+## Three reasons to vote for you:
+
+1. I will significantly change ITU for the better
+2. There will be a SASSE dog mascot (maybe).
+3. I will beat the hecklers in Age of Empires 1 vs 7.
+
+## Three reasons not to vote for you:
+
+1. Change can be scary, are you prepared?
+2. Experience in ITU so far: arranging LANs.
+3. Sadly, I too am a terrible rapper.
+
+## If you were a website, which one would you be?
+Your favorite one.
+</section>
+
 There is a great need for a new direction for ITU at SASSE.
 
 * Why can’t we watch lectures and seminars online?

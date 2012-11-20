@@ -1,6 +1,26 @@
 Title: Maria Bäckman Berg
 Registration: 22606
 
+<section class="well" markdown="1">
+## What would you give to the Hecklers in order to make them behave nicely?
+The code to the lock of the storage room at the BC
+
+## Three reasons to vote for you:
+
+* I am really good at Nintendo 64 – Mario Kart (try me!),
+* I actually enjoy drinking cold Glögg and
+* My heart and focus is in this with a 100 %
+
+## Three reasons not to vote for you:
+
+* I can’t stand ice cream,
+* I never manage to fold an ironing table and
+* If you don’t want to see team spirit within the BC
+
+## What is your dream sponsoring?
+A Nintendo 64 so I can show off my great talent and challenge you all (Hecklers invited)!
+</section>
+
 Being the president of the Business Committee would be a great honour for me.
 
 If voted for President of the Business Committee (BC) my main goal would be to strengthen the bonds between the BC groups. For me it’s important that you don’t only feel like a member of one of our great projects or societies, but that you also feel like a valuable member of the BC. By interacting all project leaders and the board members, everyone will be able to influence the committee, learn from and help each other.

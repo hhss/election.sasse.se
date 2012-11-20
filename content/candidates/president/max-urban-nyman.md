@@ -1,6 +1,26 @@
 Title: Max Urban Nyman
 Registration: 22609
 
+<section class="well" markdown="1">
+## What would you give the Hecklers in order to make them behave nicely?
+Light snacks
+
+## Three reasons to vote for you:
+
+1.  Wherever I commit myself, I commit 200%
+2.  I´m good at working in teams
+3.  I’m a very accessible person
+
+## Three reasons not to:
+
+1.   I prefer consulting to banking
+2.   I prefer my bed to consulting
+3.   I don´t own a bed
+
+## If SASSE got 10.000.000 SEK that were to be spent in four days, what would you do?
+First I’d of course throw a massive party to celebrate the occasion, then I would consult the student body in order to ascertain what need(s) could be best addressed with the money (e.g. more study space)
+</section>
+
 1.  **Increased Integration with the Masters Students, Norrtälje**
 
     We all bring different experiences and skill sets to the table. To build the best possible Student Association we must leverage all of these skill sets. For example the Student Association could benefit from better utilizing Norrtälje’s deep company connections as well as by leveraging the expertise and diverse backgrounds of the Masters students.

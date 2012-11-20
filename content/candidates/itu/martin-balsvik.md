@@ -1,7 +1,27 @@
 Title: Martin Balsvik
 Registration: 22607
 
-Vision for 2013: Make ITU and the IT-platform of SASSE Reliable, Efficient and Inspiring
+<section class="well" markdown="1">
+## What would you give to the Hecklers in order to make them behave nicely?
+The original Star Wars trilogy on Blu-ray without digital enhancements
+
+## Three reasons to vote for you:
+
+* You want ITU to make the reliability of the IT-platform our top priority.
+* You want ITU to outsource smarter.
+* You want ITU to offer exciting workshops.
+
+## Three reasons not to vote for you:
+
+* I’m an evening-person.
+* I don’t speak Klingon.
+* I don’t believe complaining solves problems.
+
+## If you were a website, which one would you be?
+theverge.com - I’ve been reading it since it launched
+</section>
+
+**Vision for 2013: Make ITU and the IT-platform of SASSE Reliable, Efficient and Inspiring**
 
 ## Campaign promises:
 

@@ -1,6 +1,20 @@
 Title: Martin Pütsep
 Registration: 22408
 
+<section class="well" markdown="1">
+## What would you give to the Hecklers in order to make them behave nicely?
+A big Estonian hug.
+
+## Three reasons to vote for you:
+Responsible an. I can eat four Big Mac’s in six minutes. I will make the balance sheet at Sasse as awesome as my body.
+
+## Three reasons not to vote for you:
+Not as awesome as Barney. Often naked. Classic “morgonfrilla”.
+
+## Which one of the four rules of arithmetic are you?
+Multiplication. Look how big I am.
+</section>
+
 Who is the Treasurer?
 
 Not only is the Treasurer strategic responsible for the economy and everyday economic transactions, but also for having a greater perspective on everything that happens in the Student Association

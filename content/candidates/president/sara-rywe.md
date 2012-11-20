@@ -1,6 +1,20 @@
 Title: Sara Rywe
 Registration: 22375
 
+<section class="well" markdown="1">
+## What would you give to the Hecklers in order to make them behave nicely?
+They won’t be nice but maybe a Zumba class would get them loosened up!
+
+## Three reasons to vote for you:
+I am a doer, I am positive and engaging and I am a reliable supporter in all occasions.
+
+## Three reasons not to vote for you:
+I am blonde, I did not graduate high school with 20,0 & my smile ain’t as big as Hoffman’s
+
+## If SASSE got 10 000 000 SEK that were to be spent in four days, what would you do?
+I would renovate our facilities that are in desperate need, like Enoksro and other SASSE premises. Also, I would outsource some of the necessary IT-solutions and accounting.
+</section>
+
 I think that SASSE is outstanding in all of its main focus areas; social activities, business relations and education. However, the latter one is an area in which I believe we can do more. As president of SASSE, I will work closely together with the Education Committee, SSE faculty and the student body to improve our education. I want students at SSE to have good study facilities, engaging seminar teachers, wisely planned exam periods and a president of SASSE who’s ready to stand up for the students’ opinions.
 
 I also believe that it is important to have a greater diversity among the students. This will not only improve our university ranking, but also benefit our social environment. I am eager to communicate that SSE is open to all students by further developing our ambassador programs and displaying our wide range of SASSE projects.

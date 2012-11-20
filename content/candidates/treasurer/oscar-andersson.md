@@ -1,6 +1,26 @@
 Title: Oscar Andersson
 Registration: 22564
 
+<section class="well" markdown="1">
+## What would you give to the Hecklers in order to make them behave nicely?
+Whiskey! No-one behaves badly with a glass of whiskey in their hand.
+
+## Three reasons to vote for you:
+
+* I love the student association
+* Accounting is my thing
+* I always look on the bright side of life
+
+## Three reasons not to vote for you:
+
+* I am bad at handling sleep deprivation
+* I eat a lot
+* My name is not Johan
+
+## Which one of the four rules of arithmetic are you?
+Addition. It's the best way to get positive numbers right!
+</section>
+
 What goes around comes around! Vote for me to come around I’ll make sure SASSE goes around!
 
 When I started at SSE over a year ago, I thought I would keep the same distinction between school  and spare time that I always had. I didn’t realize what an impact the student association would have on me. But as I got to be a part of it, from the first day and forward, I came to love SASSE. An  organization that combines career services and international projects with entertainment and  partying, all for the benefit of us students, is an amazing enterprise. This genuine passion for SASSE will mark my tenure as treasurer and I will do my uttermost to maintain a well-functioning accountancy so that the student association can continue to thrive.

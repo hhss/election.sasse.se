@@ -1,6 +1,28 @@
 Title: Alexis Lindhé
 Registration: 22485
 
+<section class="well" markdown="1">
+## What would you give to the Hecklers in order to make them behave nicely?
+
+I have nothing to offer other than blood, toil, tears, and sweat. Mostly sweat.
+
+## Three reasons to vote for you:
+
+* I have served my country as an officer and a gentleman in both military and diplomatic capacities for nigh four years.
+* I have personally violated the sovereignty of two foreign nations.
+* I respect the Power of the Tea.
+
+## Three reasons not to vote for you:
+
+* You prefer an International Committee of lesser stature and clout
+* Empire Strikes Back is your least favorite in the trilogy because "it was the most boringest one"
+* You’d enjoy some peace and quiet.
+
+## If you were to be a flag, which one would you be?
+
+The flag raised on Mount Suribachi at the outset of the Battle of Iwo Jima. It stands for everything I believe in: the virtues of industrialization, the importance of disciplined teamwork, and the fearsome potential of combined arms operations. The statue commissioned to commemorate its raising graces the environs of the Pentagon, Virginia, which I correctly predicted would swing Democrat in the 2012 elections.
+</section>
+
 International relations are important and many of our students envision themselves working abroad at one point or another during their life, and we need to provide the inspiration that comes with that perspective.
 
 As President of the International Committee I would work tirelessly to increase the student body’s exposure to the possibilities of working and studying abroad. I would like to increase the amount of company lectures aimed towards this as well as examine the possibilities to have an IntU-fair more specifically aimed towards this goal. I would also encourage the regional associations to increase their activities, both business and entertainment oriented.

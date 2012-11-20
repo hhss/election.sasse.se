@@ -1,6 +1,28 @@
 Title: André Malmaeus
 Registration: 22568
 
+<section class="well" markdown="1">
+## What would you give to the Hecklers in order to make them behave nicely?
+
+A “piggelin”
+
+## Three reasons to vote for you:
+
+* I love sports and the student association
+* I like taking new initiatives and bringing new ideas into reality
+* I have lots of experience of work within IDU and other projects
+
+## Three reasons not to vote for you:
+
+* I am a quarter Canadian
+* I have never run a marathon
+* You don´t like my green design of the IDU-table.
+
+## Bird, fish or between? Why?
+
+Fish, since fishing is one of my biggest hobbies. So far I have caught 47 different species, the biggest one a 25 kg tarpon.
+</section>
+
 I think the Sports Committee/IDU is fantastic! It gathers students from all different ages, countries and backgrounds to meet and participate in their common interest: SPORTS.
 I would really want the opportunity to continue making this committee even better!
 

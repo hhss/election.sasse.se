@@ -1,6 +1,32 @@
 Title: Henrik Hoffman
 Registration: 22615
 
+<section class="well" markdown="1">
+## What would you give to the Hecklers in order to make them behave nicely?
+A massage and full disclosure over a cup of coffee.
+
+## Three reasons to vote for you:
+
+1. I have a clear vision and a plan to take us there
+2. I am a candidate with relevant experience.
+3. I approach life and its challenges with a smile.
+
+## Three reasons not to vote for you:
+
+1. My vision and plan does not attract you
+2. I have not managed a SASSE project
+3. During long or inefficient meetings, I might introduce … efficiency
+
+## If SASSE got 10 000 000 SEK that were to be spent in four days, what would you do?
+
+* Air-con to the pub and rotunda
+* Touch up the Aula to KAW standards (i.e. leg room, foldable writing tables)
+* Completion of the library
+* A renovation of the Pub to make it an attractive area day-time  too
+* Elementary courses in rethoric and language to all lecturing professors.
+
+</section>
+
 SASSE is facing some serious challenges and we need to create awareness of the issues and construct a plan on how to deal with them.
 
 I have identified three main challenges:

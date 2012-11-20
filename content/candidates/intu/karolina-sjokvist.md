@@ -1,6 +1,26 @@
 Title: Karolina Sjökvist
 Registration: 22578
 
+<section class="well" markdown="1">
+## What would you give to the Hecklers in order to make them behave nicely?
+Tickets for the show ”Alex Schulman - Älska mig!”.
+
+## Three reasons to vote for you:
+
+* My dedication to SASSE and the IC
+* Coming from Dalarna, my international experience goes back 22 years
+* I´ll always work in favor of the students
+
+## Three reasons not to vote for you:
+
+* My last name is completely useless in international contexts
+* I have an embarrassing hang-up on confusing Mexico for Morocco
+* I don´t enjoy cleaning
+
+## If you were to be a flag, which one would you be?
+Any flag would do – reaching those heights would be ever so awesome
+</section>
+
 During my college year in USA I was on the tennis team with players coming from 7 countries. This experience made me realize how enriching it is to meet people from different cultures and how it provides new perspectives. I believe the International Committee is an optimal platform for this kind of exchange.
 
 My true interest for the International Committee began when I joined one of the regional associations; the fantastic Der Verein. Eventually I was privileged to become a board member of the International Committee, which has given me valuable insights and the responsibility for arranging events such as the sensational Battle of Europe.

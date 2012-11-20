@@ -1,6 +1,20 @@
 Title: Hannah Molin
 Registration: 22516
 
+<section class="well" markdown="1">
+## What would you give to the Hecklers in order to make them behave nicely?
+A mirror.
+
+## Three reasons to vote for you:
+Driven, experience through Intu-board, innovative
+
+## Three reasons not to vote for you:
+Bad humour, short, over analytical
+
+## If you were to be a flag, which one would you be?
+The Olympic flag.
+</section>
+
 What is great about Intu, which I would like to keep, is that it has two faces, one serious and one more relaxed. Students can choose what they want to be engaged in and to what degree.
 
 I want Intu to be the committee that empowers individuals and utilizes the incredible drive that exists at this school. Offering a chance to meet new people from different years and cultures, and having a lot of fun together, is what makes this committee so exiting.

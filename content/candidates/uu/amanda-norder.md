@@ -1,6 +1,22 @@
 Title: Amanda Norder
 Registration: 22420
 
+<section class="well" markdown="1">
+## What would you give to the Hecklers in order to make them behave nicely?
+A bottle of great French wine & a smile.
+
+## Three reasons to vote for you:
+
+I am trustworthy, dedicated and I am ready to stand up for my fellow students!
+
+## Three reasons not to vote for you:
+
+My French accent and I have my pedantic and procrastinating moments.
+
+## If you were to be a course at SSE for one day, which one would you be?
+“191 - Management: Organisation”; I find human behavior and relationships fascinating. Also, as always, I’d be structured when studying, powerful at the gym, HR-minded with my friends and symbolically representing the SSE spirit in the rotunda that night!
+</section>
+
 The promise of my EduC (Education Committee) is simple: a **diverse** set of **engaged** students **standing up** for everybody’s interest to make sure we get the world-class education we deserve!
 
 I was born and raised in the South of France by Swedish parents. I believe this double-nationality brings both open-mindedness and adaptability. Serving as Head of Events in EduC, has taught me the ropes and tricks of the committee, while being President of the Exchange Committee has been a great opportunity to practice representing a hundred students towards the school.

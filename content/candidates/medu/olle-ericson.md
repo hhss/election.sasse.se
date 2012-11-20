@@ -1,6 +1,26 @@
 Title: Olle Ericson
 Registration: 22481
 
+<section class="well" markdown="1">
+## What would you give to the Hecklers in order to make them behave nicely?
+A ride in the Batmobile.
+
+## Three reasons to vote for you:
+
+1. I can draw a pretty cool cartoon of Håkan Lyckeborg,
+2. I’m the Batman and
+3. I’m Big Papa and the Vice President of the Media Committee so therefore know how to run the show.
+
+## Three reasons not to vote for you:
+
+1. I’m slightly time-optimistic,
+2. too much of an advertising-nerd and
+3. undressed too often
+
+## What animals are there?
+Bats (but they’re pretty scary), kårrävar, tigers and guinea pigs to name a few.
+</section>
+
 I have big plans for the Media Committee. To put it in simple words – I want the Media Committee to be more like the Batman. Yeah, that’s right. The Batman. Sounds confusing? Give me a minute and I’ll explain.
 
 I have come to love everything about the Media Committee. My only concern is that few others feel the same way. I want to change this. As President of the Media Committee there are three key issues I will prioritize in order to make the Media Committee the most popular committee of SASSE.
