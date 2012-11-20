@@ -1,6 +1,20 @@
 Title: Johanna Lundgren
 Registration: 22639
 
+<section class="well" markdown="1">
+## What would you give to the Hecklers in order to make them behave nicely?
+A road trip by night with some really cozy music! ☺
+
+## Three reasons to vote for you:
+I am energetic, dedicated and I love to engage in educational issues.
+
+## Three reasons not to vote for you:
+I might start talking even more about education and become overkill, I am very outspoken and sometimes I laugh A LOT.
+
+## If you were to be a course at SSE for one day, which one would you be?
+877 Self Leadership – an important and inspiring subject!
+</section>
+
 Hi peeps!
 
 I love SSE and I believe that the education we acquire will be vitally important for our future. No matter if we want to make a career in banking, join a marketing agency, found our own company or become an elite hockey player.
