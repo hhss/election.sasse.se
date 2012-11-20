@@ -21,28 +21,26 @@
       </div>
 
       {% for position, candidates in candidates if not position in LISTING_CANDIDATES %}
-      <section id="{{ position }}" class="position">
+      <section id="{{ position }}" class="position page-position">
         <div class="page-header">
           <h1>{{ POSITION_TITLES[position] }}</h1>
         </div>
 
-        <div class="candidate-list">
-        {% for candidate in candidates %}
-        {{ loop.cycle('<div class="row">', '', '') }}
-          <div class="span3">
+        <div class="candidate-list row">
+          {% for candidate in candidates %}
+          <div class="span3 candidate">
             <a href="{{ SITEURL }}/{{ candidate.url }}">
               <img src="{{ SITEURL }}/static/images/candidates/{{ candidate.slug }}.jpg" class="img-polaroid">
               <h2><a href="{{ SITEURL }}/{{ candidate.url }}" class="btn-large btn">{{ candidate.title }}</a></h2>
             </a>
           </div>
-        {{ loop.cycle('', '', '</div>') }}
         {% endfor %}
         </div>
       </section>
       {% endfor %}
 
       {% for position, candidates in candidates if position in LISTING_CANDIDATES %}
-      <section id="{{ position }}" class="position">
+      <section id="{{ position }}" class="position list-position">
         <div class="page-header">
           <h1>{{ POSITION_TITLES[position] }}</h1>
         </div>
@@ -50,7 +48,7 @@
         <div class="candidate-list">
         {% for candidate in candidates %}
         {{ loop.cycle('<div class="row">', '', '') }}
-          <div class="span3">
+          <div class="span3 candidate">
             <img src="{{ SITEURL }}/static/images/candidates/{{ candidate.slug }}.jpg" class="img-circle">
             <h2>{{ candidate.title }}</h2>
             {{ candidate.content }}
@@ -63,4 +61,28 @@
     </div>
   </div>
 </div>
+{% endblock %}
+
+{% block end %}
+<script>
+(function($) {
+$.fn.randomize = function(childElem) {
+  return this.each(function() {
+      var $this = $(this);
+      var elems = $this.children(childElem);
+
+      elems.sort(function() { return (Math.round(Math.random())-0.5); });
+
+      $this.remove(childElem);
+
+      for(var i=0; i < elems.length; i++)
+        $this.append(elems[i]);
+
+  });
+}
+})(jQuery);
+
+$(".page-position .candidate-list").randomize('.candidate');
+$(".list-position .candidate-list").randomize('.row');
+</script>
 {% endblock %}
