@@ -6,19 +6,16 @@ Registration: 50209
 Page 5 in the Attention: Events Guide Week 40
 
 ## Three reasons to vote for you:
-
-* I always have a positive spirit
-* I am persistent
-* Dedicated to the things I do
+I always have a positive spirit. I am persistent. Dedicated to the things I do.
 
 ## Three reasons not to vote for you:
+You want me to be a janitor. I think I can sing great, but I can’t. I like surströmming.
 
-* You want me to be a janitor
-* I think I can sing great, but I can’t
-* I like surströmming
-
-## Can you explain the impact, if any, that social networking and web 2.0 has made on you personally?
-I really like the fact that you can network with anyone at any time in any part of the world. But it takes quite some time to always be updated, and I am considering giving myself time restrictions on my Facebook account to remind myself of the world beyond the internet.
+##Can you explain the impact, if any, that social networking and web 2.0 has made on you
+personally?
+I really like the fact that you can network with anyone at any time in any part of the world. But it takes
+quite some time to always be updated, and I am considering giving myself time restrictions on my
+Facebook account to remind myself of the world beyond the Internet.
 </section>
 
 During my first year at SSE I have had a leading role within SASSE at CFR as the Social Officer. This has given me the opportunity to learn a lot about the daily workflow within the Student Association. I have helped students to arrange everything from small events to big banquets like SNS. I have also participated in the Student Council and have had contact with the faculty. This has given me an understanding of the SASSE as a whole and my interest of improving our Student Association has only grown bigger.
