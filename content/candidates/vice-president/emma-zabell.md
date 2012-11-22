@@ -11,8 +11,7 @@ I always have a positive spirit. I am persistent. Dedicated to the things I do.
 ## Three reasons not to vote for you:
 You want me to be a janitor. I think I can sing great, but I can’t. I like surströmming.
 
-##Can you explain the impact, if any, that social networking and web 2.0 has made on you
-personally?
+##Can you explain the impact, if any, that social networking and web 2.0 has made on you personally?
 I really like the fact that you can network with anyone at any time in any part of the world. But it takes
 quite some time to always be updated, and I am considering giving myself time restrictions on my
 Facebook account to remind myself of the world beyond the Internet.
@@ -25,3 +24,9 @@ As your Vice President I will make sure that the student’s interests are met a
 During my year as your Vice President I will focus on the internal education and communication in order to improve the effectiveness of SASSE. I want to make it easier for the students both to start up projects and to know who to contact in the various committees. I will make sure that the project manager’s forum will be held more often. To have the opportunity to share and learn about experiences from different kinds of projects we will build a stronger association. In order to improve the communication I want to develop clear guidelines about who to contact no matter what type of questions you have.
 
 Vote Zabell for VP!
+
+If you want to find out more about me and support my campaign:
+
+Visit and like my [Facebook page](http://www.facebook.com/ZabellForVP)
+
+<iframe src="http://player.vimeo.com/video/54039635?badge=0" width="500" height="375" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/54039635">Emma Zabell for VP 13/14</a> from <a href="http://vimeo.com/user14816278">Sofia Gyllenhammar</a> on <a href="http://vimeo.com">Vimeo</a>.</p>

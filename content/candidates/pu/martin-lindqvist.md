@@ -22,3 +22,8 @@ Within SASSE I have, apart from being an EC-marshal, been head of the Småttings
 If given your trust as next president of the EC I will focus on improving the way you experience all SASSE festivities; from you not waiting in the cold outside Kopparporten to how you’re served in the bar and able to dance the night away in a Rotunda that doesn’t drown you in your own sweat. My aim is for you to be surprised every time you come to an EC-event by mind-blowing theme decorations, enthusiastic marshals and skilled entertainment from the DJ-booth as well as on stage. I will strive to create further interaction and fellowship between the bachelor programs of Sveavägen and Norrtälje as well as the master students; together we have even more fun!
 
 Give me your vote and you’re one step closer to a year that will give you amazing memories for a lifetime (though you might not remember them all…). I will be a Klubbis with the ability to gather the right team to bring SASSE festivities to the next level, a SASSE board member who understands the other committees, and I will do everything to develop our fantastic association.
+
+For those of you who are tired of reading election porks - subscribe to the playlist:
+[Election Pork in Lyrics. Vote Martin for President of the Entertainment Committee][1]!
+
+[1]: http://open.spotify.com/user/regattan09/playlist/7BXB13MYyKmouAS4kBIyxU
