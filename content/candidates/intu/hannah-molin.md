@@ -37,3 +37,7 @@ Why me?
 
 I will make things happen. I am driven, structured and care about details. I have international experience, lived abroad for 5 years, and I will listen. Together we will make this the most exiting committee of them all.
 ”Goals are like magnets. They will attract the things that makes them come true”.
+
+![Vote Hannah for IntU President!][1]
+
+[1]: /static/images/extra/hannah-molin-poster.jpg
