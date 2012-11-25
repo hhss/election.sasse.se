@@ -21,6 +21,10 @@ A trip to the archipelago, a Thermos of coffee and a good book to read
 Together with my Vice President buy: a BIG ventilation system for the Rotunda, new toilet facilities, remake the pub into an actual pub and build a new house at Enoksro.
 </section>
 
+![Jakob Rudberg][pic-1]
+
+![Jakob Rudberg][pic-2]
+
 Through leadership, experiences and commitment to SASSE, I will lead the Board openly and effectively, making way for change. It all boils down to one question.
 What can SASSE do for you?
 
@@ -38,3 +42,5 @@ Yours sincerely,
 Jakob Rudberg
 0739813611
 
+[pic-1]: /static/images/extra/jakob-rudberg-1.jpg
+[pic-2]: /static/images/extra/jakob-rudberg-2.jpg
