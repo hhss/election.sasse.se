@@ -15,6 +15,10 @@ I might start talking even more about education and become overkill, I am very o
 877 Self Leadership – an important and inspiring subject!
 </section>
 
+![Johanna Lundgren][short-pork]
+
+**Check out my facebook page for more info and updates: [facebook.com/JohannaForPresidentOfTheEducationCommittee][facebook]**
+
 Hi peeps!
 
 I love SSE and I believe that the education we acquire will be **vitally important for our future**. No matter if we want to make a career in banking, join a marketing agency, found our own company or become an elite hockey player.
@@ -28,3 +32,6 @@ I will ensure that our suggestions are handled as something more important than 
 As the President of the Education Committee, I will put my creativity and earlier experiences from lecturing at high schools and being the Head of Events at Entrepreneurship Society to their maximum use. **Your opinions should not stagger as fierce discussions in the Atrium after an exam**. I want to, and I will, ensure that your voices get heard and that your suggestions will result in substantial improvements at SSE!
 
 Thank you!
+
+[facebook]: https://www.facebook.com/JohannaForPresidentOfTheEducationCommittee
+[short-pork]: /static/images/extra/johanna-lundgren.jpg
