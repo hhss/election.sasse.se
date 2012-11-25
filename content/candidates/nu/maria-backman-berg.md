@@ -32,3 +32,12 @@ Attracting new companies is always a vital goal for the BC, as well as for me. B
 Continuing the development of Career Services for all SASSE members is an important goal for me. The BC will arrange events where students are able to help and learn from each other regarding their future careers. This will not only be valuable for the students but also a way to open up the BC to everyone.
 
 Last but not least, I will make sure that all fairs will do “run-ins” for Master Students and for the Retail Management Students. For me it is important that everyone feels invited to attend the great events arranged by the BC. Because more than ever, the BC will be open for everyone.
+
+**The election day is getting closer and closer and I couldn't be more excited! Hopefully you feel the same!
+To get to know more about what I want to achieve as the President of the Business Committee, klick on the link below and have a look at my Facebook page. If you have any questions please don't hesitate to contact me!**
+
+Visit my Facebook page: [facebook.com/MariaforBCPresident][facebook]
+
+Hope you're all having a great weekend!
+
+[facebook]: http://www.facebook.com/MariaforBCPresident
