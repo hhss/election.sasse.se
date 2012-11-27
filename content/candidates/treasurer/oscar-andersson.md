@@ -21,6 +21,8 @@ Whiskey! No-one behaves badly with a glass of whiskey in their hand.
 Addition. It's the best way to get positive numbers right!
 </section>
 
+<iframe width="640" height="480" src="http://www.youtube.com/embed/8mVE5xmez7g" frameborder="0" allowfullscreen></iframe>
+
 ![Oscar Andersson][pic-1]
 
 What goes around comes around! Vote for me to come around I’ll make sure SASSE goes around!
