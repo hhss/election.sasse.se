@@ -32,3 +32,9 @@ After being in charge of the business presentations for a year, I see the import
 My dedication and willingness to truly put my heart into this responsibility makes me the right person to make sure we fulfill these goals together. I get extremely enthusiastic when thinking about what we can achieve together when combining all of our talents. I, therefore, ask for your support. Please, do not hesitate to ask me any questions you might have about my candidacy.
 
 **Vote for me! It’s NU or never!**
+
+**Don’t hesitate to grab me in the hallway or contact me on facebook if you have any questions!**
+
+Follow me and my campaign on facebook: [facebook.com/emelieforbcpres][facebook]
+
+[facebook]: http://www.facebook.com/emelieforbcpres
