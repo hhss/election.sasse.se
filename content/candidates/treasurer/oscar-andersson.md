@@ -1,5 +1,6 @@
 Title: Oscar Andersson
 Registration: 22564
+Youtube: pNXlVQyiHco
 
 <section class="well" markdown="1">
 ## What would you give to the Hecklers in order to make them behave nicely?
@@ -21,7 +22,7 @@ Whiskey! No-one behaves badly with a glass of whiskey in their hand.
 Addition. It's the best way to get positive numbers right!
 </section>
 
-<iframe width="640" height="480" src="http://www.youtube.com/embed/8mVE5xmez7g" frameborder="0" allowfullscreen></iframe>
+<iframe class="youtube" src="http://www.youtube.com/embed/8mVE5xmez7g" frameborder="0" allowfullscreen></iframe>
 
 ![Oscar Andersson][pic-1]
 
