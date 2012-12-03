@@ -35,3 +35,10 @@ It has improved my ability to express myself in written communication through so
 * I will also work to increase the knowledge of how the Student Association is organised and operates. No question will be too big or too small and my door shall always be open for anyone. After several years working in the public sector I am used to discussing business over a cup of black coffee!
 
 * SÅ, vote for Nyemad as VP! It gives you wings!
+
+![Markus Nyemad][poster-1]
+
+![Markus Nyemad][poster-2]
+
+[poster-1]: /static/images/extra/markus-nyemad-1.jpg
+[poster-2]: /static/images/extra/markus-nyemad-2.jpg

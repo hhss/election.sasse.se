@@ -37,3 +37,18 @@ The reasons why I am particularly qualified are that I have great international 
 And also:
 
 Drink some tea. It helps.
+
+<div class="row" style="margin-bottom: 20px;">
+    <div class="span3"><img src="/static/images/extra/alexis-lindhe-1.jpg"></div>
+    <div class="span1"></div>
+    <div class="span3"><img src="/static/images/extra/alexis-lindhe-2.jpg"></div>
+</div>
+<div class="row" style="margin-bottom: 20px;">
+    <div class="span3"><img src="/static/images/extra/alexis-lindhe-3.jpg"></div>
+    <div class="span1"></div>
+    <div class="span3"><img src="/static/images/extra/alexis-lindhe-4.jpg"></div>
+</div>
+<div class="row">
+    <div class="span3"><img src="/static/images/extra/alexis-lindhe-5.jpg"></div>
+    <div class="span1"></div>
+</div>
