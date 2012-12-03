@@ -36,6 +36,10 @@
         </div>
 
         <div class="span7">
+          {% if candidate.youtube %}
+            <iframe class="youtube" src="http://www.youtube.com/embed/{{ candidate.youtube }}" frameborder="0" allowfullscreen></iframe>
+          {% endif %}
+
           {{ candidate.content }}
         </div>
       </div>
