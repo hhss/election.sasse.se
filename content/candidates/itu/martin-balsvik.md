@@ -22,6 +22,8 @@ The original Star Wars trilogy on Blu-ray without digital enhancements
 theverge.com - I’ve been reading it since it launched
 </section>
 
+![Martin Balsvik][poster]
+
 **Vision for 2013: Make ITU and the IT-platform of SASSE Reliable, Efficient and Inspiring**
 
 ## Campaign promises:
@@ -41,3 +43,5 @@ I believe we should share our knowledge and inspire others to develop their own 
 ### Closing statement:
 
 I have been active in SASSE and the IT-Committee since I started SSE and I strongly believe ITU needs an IT-President that has the experience to guide it forward. I’m campaigning for this position not for its prestige but for its challenges. As the current Vice-President and Project-Coordinator, I’m confident in my ability to turn my vision and promises for 2013 into reality.
+
+[poster]: /static/images/extra/martin-balsvik.jpg
